@@ -1,0 +1,16 @@
+C:\Users\Frase\source\repos\dotnet-basics-unit-tests\PrimeService.Tests\obj\Debug\netcoreapp2.0\PrimeService.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Frase\source\repos\dotnet-basics-unit-tests\PrimeService.Tests\obj\Debug\netcoreapp2.0\PrimeService.Tests.AssemblyInfoInputs.cache
+C:\Users\Frase\source\repos\dotnet-basics-unit-tests\PrimeService.Tests\obj\Debug\netcoreapp2.0\PrimeService.Tests.AssemblyInfo.cs
+C:\Users\Frase\source\repos\dotnet-basics-unit-tests\PrimeService.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Frase\source\repos\dotnet-basics-unit-tests\PrimeService.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Frase\source\repos\dotnet-basics-unit-tests\PrimeService.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Frase\source\repos\dotnet-basics-unit-tests\PrimeService.Tests\bin\Debug\netcoreapp2.0\PrimeService.Tests.deps.json
+C:\Users\Frase\source\repos\dotnet-basics-unit-tests\PrimeService.Tests\bin\Debug\netcoreapp2.0\PrimeService.Tests.runtimeconfig.json
+C:\Users\Frase\source\repos\dotnet-basics-unit-tests\PrimeService.Tests\bin\Debug\netcoreapp2.0\PrimeService.Tests.runtimeconfig.dev.json
+C:\Users\Frase\source\repos\dotnet-basics-unit-tests\PrimeService.Tests\bin\Debug\netcoreapp2.0\PrimeService.Tests.dll
+C:\Users\Frase\source\repos\dotnet-basics-unit-tests\PrimeService.Tests\bin\Debug\netcoreapp2.0\PrimeService.Tests.pdb
+C:\Users\Frase\source\repos\dotnet-basics-unit-tests\PrimeService.Tests\bin\Debug\netcoreapp2.0\PrimeService.dll
+C:\Users\Frase\source\repos\dotnet-basics-unit-tests\PrimeService.Tests\bin\Debug\netcoreapp2.0\PrimeService.pdb
+C:\Users\Frase\source\repos\dotnet-basics-unit-tests\PrimeService.Tests\obj\Debug\netcoreapp2.0\PrimeService.Tests.csproj.CopyComplete
+C:\Users\Frase\source\repos\dotnet-basics-unit-tests\PrimeService.Tests\obj\Debug\netcoreapp2.0\PrimeService.Tests.dll
+C:\Users\Frase\source\repos\dotnet-basics-unit-tests\PrimeService.Tests\obj\Debug\netcoreapp2.0\PrimeService.Tests.pdb

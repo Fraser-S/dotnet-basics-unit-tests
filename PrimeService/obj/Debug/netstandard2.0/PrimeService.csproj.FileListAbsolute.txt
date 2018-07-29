@@ -1,0 +1,8 @@
+C:\Users\Frase\source\repos\dotnet-basics-unit-tests\PrimeService\bin\Debug\netstandard2.0\PrimeService.deps.json
+C:\Users\Frase\source\repos\dotnet-basics-unit-tests\PrimeService\bin\Debug\netstandard2.0\PrimeService.dll
+C:\Users\Frase\source\repos\dotnet-basics-unit-tests\PrimeService\bin\Debug\netstandard2.0\PrimeService.pdb
+C:\Users\Frase\source\repos\dotnet-basics-unit-tests\PrimeService\obj\Debug\netstandard2.0\PrimeService.csproj.CoreCompileInputs.cache
+C:\Users\Frase\source\repos\dotnet-basics-unit-tests\PrimeService\obj\Debug\netstandard2.0\PrimeService.AssemblyInfoInputs.cache
+C:\Users\Frase\source\repos\dotnet-basics-unit-tests\PrimeService\obj\Debug\netstandard2.0\PrimeService.AssemblyInfo.cs
+C:\Users\Frase\source\repos\dotnet-basics-unit-tests\PrimeService\obj\Debug\netstandard2.0\PrimeService.dll
+C:\Users\Frase\source\repos\dotnet-basics-unit-tests\PrimeService\obj\Debug\netstandard2.0\PrimeService.pdb
